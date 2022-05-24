@@ -689,7 +689,7 @@ section {
 # Conocenos (index)
 --------------------------------------------------------------*/
 .cta-conocenos {
-  background: linear-gradient(rgba(100, 104, 112, 0.9), rgba(90, 40, 40, 0.9)), url("../../img/conocenos.jpeg") fixed center center;
+  background: linear-gradient(rgba(100, 104, 112, 0.9), rgba(90, 40, 40, 0.9)), url("../img/conocenos.jpeg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
