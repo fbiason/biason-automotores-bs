@@ -2,5 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/biasonau/public_html/
-    - /bin/cp /public_html $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
