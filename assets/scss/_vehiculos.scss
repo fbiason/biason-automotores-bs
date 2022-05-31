@@ -91,3 +91,9 @@
 .portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
 }
+
+@media (max-width: 760px) {
+  .portfolio-mobile {
+    text-align: center;
+  }
+}
